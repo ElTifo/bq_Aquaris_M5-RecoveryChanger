@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cambio de Recovery</string>
+    <string name="Installing">"Instalación del "</string>
+    <string name="twrp">Recovery TWRP</string>
+    <string name="stock">Recovery bq original</string>
+    <string name="stock_confirm">Desea instalar el Recovery bq original?</string>
+    <string name="twrp_confirm">Desea instalar el Recovery TWRP?</string>
+    <string name="rootstat"><b>Estado de acceso root</b>:</string>
+    <string name="root_not_OK_info2">Su dispositivo o no tiene acceso root, o el permiso de root no ha sido habilitado!</string>
+    <string name="root_not_OK_info1">Imposible de ejecutar como root!!</string>
+    <string name="root_not_OK">Sin acceso root</string>
+    <string name="root_OK">Con acceso root</string>
+    <string name="recovery_confirm">Desea iniciar en modo de recuperación?</string>
+    <string name="recovery">Modo de Recuperación</string>
+    <string name="reboot2recovery_label">Reinicie en Modo de Recuperación</string>
+    <string name="reboot2recovery">Toque el botón abajo para iniciar en Modo de Recuperación y comprobar que la Recovery se ha instalado correctamente</string>
+    <string name="app_version">Sólo para bq Aquaris M5</string>
+    <string name="original_code"><b>Código original</b>:\n\nDcSok y ElTifo\n\n<b>Gracias</b>:\n\nEquipo TWRP y Kra1o5</string>
+    <string name="toast">"La Recovery seleccionada hay sido instalada!"</string>
+</resources>
